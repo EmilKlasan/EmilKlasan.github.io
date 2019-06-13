@@ -1,6 +1,16 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
+
+# Experience
+## Developer - Flextrade UK Ltd.
+
+## Intern - Flextrade UK Ltd.
+
+# Education
+## MEng Computing - Imperial College London
+
+## International Baccalaureate - Vienna International School
+
+# Projects
+## KFixture
